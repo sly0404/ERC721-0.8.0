@@ -2,7 +2,7 @@ pragma solidity ^0.8.0;
 
 import "./ERC165/IERC165.sol";
 
-interface IERC721 is IERC165 /* is ERC165 */ 
+interface IERC721 is IERC165
 {
     /// @dev This emits when ownership of any NFT changes by any mechanism.
     ///  This event emits when NFTs are created (`from` == 0) and destroyed

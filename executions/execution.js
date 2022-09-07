@@ -17,3 +17,5 @@ token.isValidToken(70009)
 
 token.balanceOf("0x25075f2Adf4A1dFed4DffeFb9747112cA5C168d3")
 token.issueTokens(3)
+
+token.getMsgSender()

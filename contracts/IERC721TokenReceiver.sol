@@ -1,6 +1,6 @@
 pragma solidity ^0.8.0;
 
-interface ERC721TokenReceiver 
+interface IERC721TokenReceiver 
 {
     /// @notice Handle the receipt of an NFT
     /// @dev The ERC721 smart contract calls this function on the recipient
